@@ -14,6 +14,7 @@ function updateCurrentDay() {
      const currentUTCTime = new Date();
      const currentTimeString = currentUTCTime.toISOString();
      currentUTCElement.textContent = currentUTCTime;
+     
  }
 
 
