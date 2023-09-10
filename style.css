@@ -1,8 +1,17 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: rgb(225, 210, 240);
+
 }
 
 img {
-    max-width: 250px;
-    max-height: 300px;
+    width: 200px;
+    height: 250px;
+    border-radius: 5px;
+}
+
+p {
+    font-weight: bold;
+    font-size: large;
 }
